@@ -31,4 +31,4 @@ To use this application:
 - `script.js`: JavaScript file containing the login functionality.
 
 # Live Demo
-You can vist the webpage from [Simple User Authentication Web Application]()
+You can vist the webpage from [Simple User Authentication Web Application](https://nabila39.github.io/Simple-User-Authentication-Web-Application/)
